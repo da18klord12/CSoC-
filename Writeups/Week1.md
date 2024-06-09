@@ -1,4 +1,4 @@
-# WriteUps for CSoC Infosec Week - 1\
+# WriteUps for CSoC Infosec Week - 1
 
 ## Challenge 1 - picoCTF Challenges
 
