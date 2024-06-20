@@ -26,7 +26,7 @@
 ## Encoding 
 ### 1. ASCII
 
-    ![script](scripts/ascii.png)
+    ![script](Writeups/ascii.png)
 
 ### 2. Hex
 
