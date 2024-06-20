@@ -26,7 +26,7 @@
 ## Encoding 
 ### 1. ASCII
 
-    ![script](https://github.com/da18klord12/CSoC-/blob/main/scripts/ascii.png)
+    ![script](scripts/ascii.png)
 
 ### 2. Hex
 
