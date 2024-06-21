@@ -70,13 +70,13 @@
 it looked like a base64 so decoded it and it gave me a new python script.....as far as i can, it seems that the new script i got on decoding is some used for decoding a flag which is stored in flag.txt
 Below is my script for decoding and what i got after decoding 
 
-[script](https://github.com/da18klord12/CSoC-/blob/main/scripts/challenge1.png)
-[output](https://github.com/da18klord12/CSoC-/blob/main/scripts/output.png)
+![script](https://github.com/da18klord12/CSoC-/blob/main/scripts/challenge1.png)
+![output](https://github.com/da18klord12/CSoC-/blob/main/scripts/output.png)
 
 ### Challenge 2 :
 After looking at this I made a note that it was a string comprising of several strings with different encodings
 
-[script](https://github.com/da18klord12/CSoC-/blob/main/scripts/challenge2.png)
+![script](https://github.com/da18klord12/CSoC-/blob/main/scripts/challenge2.png)
 
 
 
