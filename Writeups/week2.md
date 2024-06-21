@@ -72,6 +72,12 @@ Below is my script for decoding and what i got after decoding
 
 ![script](https://github.com/da18klord12/CSoC-/blob/main/scripts/challenge1.png)
 ![output](https://github.com/da18klord12/CSoC-/blob/main/scripts/output.png)
+> Challenge 1 part 2:
+in this file which was named as output in the repo first i tried to use it as flag.txt and executed the previous script but got nothing and then using another script i tried to decrypt but it was somewhat distorted and as if it was originally something like CSOC23{...} even on online platforms it was somewhat like this
+
+![script](https://github.com/da18klord12/CSoC-/blob/main/scripts/part2chall2.png)
+and the output is below
+![output](https://github.com/da18klord12/CSoC-/blob/main/scripts/part2out.png)
 
 ### Challenge 2 :
 After looking at this I made a note that it was a string comprising of several strings with different encodings
